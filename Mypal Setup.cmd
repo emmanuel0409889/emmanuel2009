@@ -1,5 +1,7 @@
 @echo off
-echo The Mypal will start shortly 
+echo This is the Mypal setup do you want to continue?
+pause
+echo Do want io install it?
 pause
 Please Wait
 timeout /t 8
